@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```bash
 uvicorn app.main:app --reload
 ```
-Документация по API будет доступна по ссылке: http://127.0.0.1:8001/docs
+Документация по API будет доступна по ссылке: http://127.0.0.1:8000/docs
 
 ### 6. Тесты
 
